@@ -13,6 +13,7 @@ Il s'agit d'essaie-erreur pour trouver l'adresse IP du projecteur souhaité et p
 En poursuivant, on ouvre le fichier que l'on veut projeter dans le logiciel de TouchDesigner et ajoute un composant qui se nomme Window si il n'est pas déjà présent. Ce dernier inclut le contrôle de nombreux paramètres dont la résolution, le centrage et le(s) moniteur(s) sur lesquels la fenêtre sera affichée. La différence avec le composant Fenêtre et /perform est que : 
 
 > *Le composant Window vous permet de créer et de maintenir une fenêtre flottante ou fixe distincte affichant le contenu de n'importe quelPanneauou n'importe quelVisionneuse de nœuds*
+
 > Phrase tirée du site de TouchDesigner
 
 ![image](https://github.com/projet-final-2024/prototypage-camelie/assets/93718179/f3b09f07-43f5-4700-8025-fa3f6cefd126)
