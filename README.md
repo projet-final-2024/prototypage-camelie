@@ -14,7 +14,7 @@ En poursuivant, on ouvre le fichier que l'on veut projeter dans le logiciel de T
 
 > *Le composant Window vous permet de créer et de maintenir une fenêtre flottante ou fixe distincte affichant le contenu de n'importe quelPanneauou n'importe quelVisionneuse de nœuds*
 
-> Phrase tirée du site de TouchDesigner
+> Phrase tirée du site de *[TouchDesigner](https://derivative.ca/UserGuide/Window_COMP)*
 
 ![image](https://github.com/projet-final-2024/prototypage-camelie/assets/93718179/f3b09f07-43f5-4700-8025-fa3f6cefd126)
 
