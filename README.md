@@ -21,7 +21,7 @@ En poursuivant, on ouvre le fichier que l'on veut projeter dans le logiciel de T
 ## Résulat, est-ce que ça marche ou pas ? 
 Ça marche ! 
 
-https://github.com/projet-final-2024/prototypage-camelie/assets/93718179/69d3518b-e7db-4ac4-b84b-6e74629f81d4
+https://github.com/projet-final-2024/prototypage-camelie/assets/93718179/73b1ab75-5e33-4eb5-89d3-84619d5bf75a
 
 ## Défi ?
 
