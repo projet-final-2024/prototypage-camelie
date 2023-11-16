@@ -10,7 +10,7 @@ Il s'agit d'essaie-erreur pour trouver l'adresse IP du projecteur souhaité et p
 
 ![MicrosoftTeams-image (23)](https://github.com/projet-final-2024/prototypage-camelie/assets/93718179/c0fcd4fe-3bcd-465a-84ef-7a71189d250b)
 
-En poursuivant, on ouvre le fichier que l'on veut projeter dans le logiciel de TouchDesigner et ajoute un composant qui se nomme Window si il n'est pas déjà présent. Ce dernier inclut le contrôle de nombreux paramètres dont la résolution, le centrage et le(s) moniteur(s) sur lesquels la fenêtre sera affichée. La différence avec le composant Fenêtre et */perform* est que : 
+En poursuivant, on ouvre le fichier que l'on veut projeter dans le logiciel de TouchDesigner et ajoute un composant qui se nomme Window s'il n'est pas déjà présent. Ce dernier inclut le contrôle de nombreux paramètres dont la résolution, le centrage et le(s) moniteur(s) sur lesquels la fenêtre sera affichée. La différence avec le composant Fenêtre et */perform* est que : 
 
 > *Le composant Window vous permet de créer et de maintenir une fenêtre flottante ou fixe distincte affichant le contenu de n'importe quelPanneauou n'importe quelVisionneuse de nœuds*
 
@@ -18,11 +18,9 @@ En poursuivant, on ouvre le fichier que l'on veut projeter dans le logiciel de T
 
 ![image](https://github.com/projet-final-2024/prototypage-camelie/assets/93718179/f3b09f07-43f5-4700-8025-fa3f6cefd126)
 
-
+La kinect a également été utilisée pour ajouter la détection de présence au visuel réalisé dans TouchDesigner. Elle a été connectée dans l'ordinateur au moyen de son câble (USB). 
 
 ## Résulat, est-ce que ça marche ou pas ? 
 Ça marche ! 
 
 https://github.com/projet-final-2024/prototypage-camelie/assets/93718179/73b1ab75-5e33-4eb5-89d3-84619d5bf75a
-
-## Défi ?
