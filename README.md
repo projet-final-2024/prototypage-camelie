@@ -1,7 +1,7 @@
 # Connexion entre le logiciel TouchDesigner et le projecteur suspendu au plafond
 
 ## Comment faire ?
-Brancher le câble (HDMI) lié au projecteur dans l'ordinateur. Ne pas oublier de s'assurer que le projecteur est associé à un port pour permettre sa connexion avec l'ordinateur. Sile projecteur est déjà suspendu au plafond, on ne peut recréer le fameux parcours qui mène à l'adresse IP du projecteur se trouvant dans le menu Réseau. Dans ce cas-là, on peut avoir recours à un outil de suivi des adresses IP, par exemple, *Angry IP Scanner*. 
+Brancher le câble lié au projecteur dans l'ordinateur. Ne pas oublier de s'assurer que le projecteur est associé à un port pour permettre sa connexion avec l'ordinateur. Sile projecteur est déjà suspendu au plafond, on ne peut recréer le fameux parcours qui mène à l'adresse IP du projecteur se trouvant dans le menu Réseau. Dans ce cas-là, on peut avoir recours à un outil de suivi des adresses IP, par exemple, *Angry IP Scanner*. 
 
 ![image](https://github.com/projet-final-2024/prototypage-camelie/assets/93718179/03b86597-d497-4d9e-84c4-f83fdcf284cd)
 > Image provenant du site de *[Angry IP Scanner](https://angryip.org/screenshots/)*
@@ -18,7 +18,7 @@ En poursuivant, on ouvre le fichier que l'on veut projeter dans le logiciel de T
 
 ![image](https://github.com/projet-final-2024/prototypage-camelie/assets/93718179/f3b09f07-43f5-4700-8025-fa3f6cefd126)
 
-La kinect a également été utilisée pour ajouter la détection de présence au visuel réalisé dans TouchDesigner. Elle a été connectée dans l'ordinateur au moyen de son câble (USB). 
+La kinect a également été utilisée pour ajouter la détection de présence au visuel réalisé dans TouchDesigner. Elle a été connectée dans l'ordinateur au moyen de son câble. 
 
 ## Résulat, est-ce que ça marche ou pas ? 
 Ça marche ! 
